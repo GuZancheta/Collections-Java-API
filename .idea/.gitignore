@@ -8,3 +8,11 @@
 /dataSources.local.xml
 # Zeppelin ignored files
 /ZeppelinRemoteNotebooks/
+/sonarlint/
+misc.xml
+vcs.xml
+modules.xml
+sonarlint.xml
+uiDesigner.xml
+workspace.xml
+CollectionsJavaAPI.iml

@@ -5,3 +5,15 @@ m
 =collectionsJavaAPI/src/main/generics/GenericsExampleList.java,6/b/6b8a86b7b7f9ae70f2b3dd4b4cbacc41eed766c1
 P
  collectionsJavaAPI/src/Main.java,f/6/f68e3c65b12ffb01ef1aa2c41769402ae5bd702a
+j
+:collectionsJavaAPI/src/main/list/basicoperations/Task.java,5/3/53e605730851073463741246b653fdc975434546
+n
+>collectionsJavaAPI/src/main/list/basicoperations/TaskList.java,f/2/f2cce97929e91a52e21b93198d7973d48a1456be
+n
+>collectionsJavaAPI/src/main/list/basicoperations/MainTask.java,6/2/625261e3f6149469d2832c8ffaa1a87dadc6440a
+ˆ
+XcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/ShoppingCart.java,9/7/97113a3a5cc4faab78a706576c10567fcbfd1fae
+€
+PcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/Item.java,d/8/d8c16f2d9637f632fffdb77670b1ac0e9f64ec58
+„
+TcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/MainShop.java,f/b/fbb73ac0263b634b433aa5648d31133487874ace
