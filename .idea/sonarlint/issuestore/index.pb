@@ -17,3 +17,17 @@ XcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/Shopping
 PcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/Item.java,d/8/d8c16f2d9637f632fffdb77670b1ac0e9f64ec58
 „
 TcollectionsJavaAPI/src/main/list/basicoperations/challengeshoppingcart/MainShop.java,f/b/fbb73ac0263b634b433aa5648d31133487874ace
+h
+8collectionsJavaAPI/src/main/list/search/BookCatalog.java,9/a/9a278ef5939456e974b94ac923f0eddfc899e425
+a
+1collectionsJavaAPI/src/main/list/search/Book.java,3/5/35637b30a0c07f4697cd62b30c11fbb84a81c21f
+e
+5collectionsJavaAPI/src/main/list/search/MainBook.java,9/7/97f1fb8f06699e4a5ff292626f4a88791b79689e
+e
+5collectionsJavaAPI/src/main/list/ordering/Person.java,b/f/bfeab163108d642259101ffad15984d43bc808ad
+m
+=collectionsJavaAPI/src/main/list/ordering/OrderingPerson.java,3/5/352c9879d05f51b5343ad4a38a1e0a7fe31029c4
+q
+AcollectionsJavaAPI/src/main/list/ordering/ComparatorByHeight.java,5/9/59f66f58447b0c998d22c77fcb452c51d6937332
+k
+;collectionsJavaAPI/src/main/list/ordering/MainOrdering.java,0/9/0911fc32e6a07f4fc1bfd239b6c9028d2eb47114
